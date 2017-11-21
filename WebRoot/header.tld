@@ -1,0 +1,13 @@
+<taglib>
+<tlib-version>1.0</tlib-version>
+<jsp-version>1.0</jsp-version>
+<short-name>header</short-name>
+<description> simple example library. Author:DHARYA</description>
+
+<tag>
+<name>header</name>
+<tag-class>aa.headertag</tag-class>
+<body-content>JSP</body-content>
+<description> simple hello world example.</description>
+</tag>
+</taglib>
